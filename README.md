@@ -18,7 +18,7 @@ trial and its replay play the same moves.
 
 ## Strength
 
-Measured locally on the practice gauntlet (16 games, 8 house engines):
+Measured locally on the practice gauntlet (16 games, 8 house engines, no crash, no time forfeit):
 8.0/16, about 1,374 Elo against the gauntlet average of 1,374 — above
 the sunfish 4 KB baseline of 1,360. Wins against nodes-100k, nodes-250k,
 nodes-500k and nodes-1M in the test run.
